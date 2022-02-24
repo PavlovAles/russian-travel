@@ -1,3 +1,15 @@
 ﻿.lead__title {
+  margin: 0 0 32px;
+  font-family: 'Inter Black', Arial, Helvetica, sans-serif;
+  font-size: 96px;
+  line-height: 100px;
+  text-align: center;
+}
 
+@media (max-width: 768px) {
+  .lead__title {
+    margin-bottom: 16px;
+    font-size: 40px;
+    line-height: 44px;
+  }
 }
