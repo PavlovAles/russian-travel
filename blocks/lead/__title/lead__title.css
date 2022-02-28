@@ -3,7 +3,7 @@
   max-width: 720px;
   font-family: 'Inter Black', Arial, Helvetica, sans-serif;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 1.04;
   text-align: center;
 }
 
@@ -12,6 +12,6 @@
     margin-bottom: 16px;
     max-width: 288px;
     font-size: 40px;
-    line-height: 44px;
+    line-height: 1.1;
   }
 }
