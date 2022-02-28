@@ -1,5 +1,6 @@
 ﻿.cover {
-  margin: 0 auto 92px;
+  margin: auto;
+  padding-bottom: 92px;
   max-width: 1184px;
   padding-top: 62.5%;
   position: relative;
@@ -25,12 +26,12 @@
 
 @media (max-width: 1024px) {
   .lead {
-    margin: 0 0 92px;
+    margin: 0;
   }
 }
 
 @media (max-width: 320px) {
   .lead {
-    margin-bottom: 64px;
+    padding-bottom: 64px;
   }
 }
