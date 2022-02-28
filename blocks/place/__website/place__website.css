@@ -1,3 +1,9 @@
 ﻿.place__website {
+  align-self: end;
+}
 
+@media (max-width: 660px) {
+  .place__website {
+    padding: 0 16px;
+  }
 }

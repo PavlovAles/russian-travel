@@ -1,5 +1,4 @@
 ﻿.page {
-  padding: 0 48px;
   margin: auto;
   max-width: 1280px;
   box-sizing: border-box;
@@ -11,16 +10,6 @@
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
   text-rendering: optimizeLegibility;
-}
 
-@media (max-width: 768px) {
-  .page {
-    padding: 0 24px;
-  }
-}
-
-@media (max-width: 320px) {
-  .page {
-    padding: 0 16px;
-  }
+  background-color: rgb(92, 90, 88);
 }
