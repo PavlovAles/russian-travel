@@ -6,17 +6,20 @@
   align-items: center;
 }
 
+@media (max-width: 1080px) {
+  .lead {
+    margin: 0 48px 92px;
+  }
+}
+
 @media (max-width: 768px) {
   .lead {
-    margin-bottom: 88px;
-    width: 100vw;
-    transform: translateX(-24px);
+    margin: 0 0 88px;
   }
 }
 
 @media (max-width: 320px) {
   .lead {
     margin-bottom: 64px;
-    transform: translateX(-16px);
   }
 }

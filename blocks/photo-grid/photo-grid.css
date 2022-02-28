@@ -1,15 +1,21 @@
 ﻿.photo-grid {
-  margin-bottom: 92px;
+  margin: 0 48px 92px;
 }
+
+/* @media (max-width: 1024px) {
+  .photo-grid {
+    margin: 0 48px 92px;
+  }
+} */
 
 @media (max-width: 768px) {
   .photo-grid {
-    margin-bottom: 88px;
+    margin: 0 24px 88px;
   }
 }
 
 @media (max-width: 320px) {
   .photo-grid {
-    margin-bottom: 64px;
+    margin: 0 16px 64px;
   }
 }
