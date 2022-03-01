@@ -16,14 +16,14 @@
 
 @media (max-width: 768px) {
   .places {
-    padding: 0 24px 90px;
-    row-gap: 73px;
+    padding: 0 24px 65px;
+    row-gap: 72px;
   }
 }
 
 @media (max-width: 660px) {
   .places {
-    padding: 0 0 66px;
-    row-gap: 50px;
+    padding: 0 0 41px;
+    row-gap: 52px;
   }
 }
