@@ -16,7 +16,7 @@
   top: 0;
   background-color: #000;
 	opacity: 0.3;
-	transition: opacity 200ms ease;
+	transition: opacity .5s ease;
 }
 
 .cover:hover::before {
